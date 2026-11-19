@@ -26,10 +26,7 @@ class KunalJha:
         "Market Terminal":  "desktop workspace for building and testing trading strategies",
         "AnalystMind":      "ML lead @ WatStreet, simulating sell-side consensus",
     }
-    offline = ["photography", "fashion", "home game poker"]
-
-    def edge(self) -> str:
-        return "I'd rather ship it and read the logs than talk about it"
+    offline = ["photography", "badminton", "poker"]
 ```
 
 <p align="center">
