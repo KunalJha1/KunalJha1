@@ -45,17 +45,6 @@ class KunalJha:
   <img src="https://skillicons.dev/icons?i=py,cpp,ts,go,react,nextjs,tailwind,fastapi,postgres,sqlite,tauri,aws,linux,git&perline=7" alt="stack" />
 </p>
 
-### Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KunalJha1&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalJha1&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top languages" />
-</p>
-
-### Say hi
-
-Always down to talk about anything: projects, startups, markets, or whatever you're building. If you're hiring for Summer 2027, my inbox is open.
-
 <a href="https://www.linkedin.com/in/kunal-jha1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:kunal.jha@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://dailyiq.me"><img src="https://img.shields.io/badge/dailyiq.me-111827?style=flat&logo=googlechrome&logoColor=white" alt="DailyIQ" /></a>
