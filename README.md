@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://dailyiq.me"><img src="https://img.shields.io/badge/dailyiq.me-live-22C55E?style=flat-square" alt="DailyIQ live" /></a>
   <img src="https://img.shields.io/badge/Shopify-SWE-95BF47?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
-  <img src="https://img.shields.io/badge/Summer%202027-open%20to%20co--op-4F8EF7?style=flat-square" alt="Open to Summer 2027 co-op" />
 </p>
 
 </div>
