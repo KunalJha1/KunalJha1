@@ -2,8 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=22C55E&center=true&vCenter=true&width=560&lines=hey%2C+i%27m+kunal;compmath+co-op+%40+uwaterloo;swe+%40+shopify;shipping+dailyiq.me+to+paying+users;if+it+moves%2C+i+backtest+it" alt="typing intro" />
 
-<p>
-  <a href="https://dailyiq.me"><img src="https://img.shields.io/badge/DailyIQ-live-22C55E?style=flat-square&logo=vercel&logoColor=white" alt="DailyIQ live" /></a>
+<p align="center">
+  <a href="https://dailyiq.me"><img src="https://img.shields.io/badge/dailyiq.me-live-22C55E?style=flat-square" alt="DailyIQ live" /></a>
   <img src="https://img.shields.io/badge/Shopify-SWE-95BF47?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
   <img src="https://img.shields.io/badge/Summer%202027-open%20to%20co--op-4F8EF7?style=flat-square" alt="Open to Summer 2027 co-op" />
 </p>
@@ -30,6 +30,8 @@ class KunalJha:
         return "I'd rather ship it and read the logs than talk about it"
 ```
 
-<a href="https://www.linkedin.com/in/kunal-jha1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:kunal.jha@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://dailyiq.me"><img src="https://img.shields.io/badge/dailyiq.me-111827?style=flat&logo=googlechrome&logoColor=white" alt="DailyIQ" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kunal-jha1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kunal.jha@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://dailyiq.me"><img src="https://img.shields.io/badge/dailyiq.me-111827?style=flat" alt="DailyIQ" /></a>
+</p>
