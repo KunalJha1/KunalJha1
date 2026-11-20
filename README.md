@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1800&pause=100000&color=22C55E&center=true&vCenter=true&repeat=false&width=560&height=45&lines=hey%2C+i%27m+kunal" alt="hey, i'm kunal" />
 <br />
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1100&color=8B949E&center=true&vCenter=true&width=560&height=30&lines=compmath+co-op+%40+uwaterloo;swe+%40+shopify;shipping+dailyiq.me+to+paying+users;if+it+moves%2C+i+backtest+it" alt="rotating intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1100&color=8B949E&center=true&vCenter=true&width=560&height=30&lines=compmath+co-op+%40+uwaterloo;swe+%40+shopify;shipping+dailyiq.me" alt="rotating intro" />
 
 <p align="center">
   <a href="https://dailyiq.me"><img src="https://img.shields.io/badge/dailyiq.me-live-22C55E?style=flat-square" alt="DailyIQ live" /></a>
